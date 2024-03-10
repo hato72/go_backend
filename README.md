@@ -10,4 +10,4 @@ go_frontendリポジトリの操作を実行
 (https://github.com/hato72/go_frontend)
 
 ### デプロイ
-render
+render：https://render.com/
